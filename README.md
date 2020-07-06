@@ -10,7 +10,7 @@ Demo
 
 Main features
 ---
-Completely created with html, css and jQuery javascript. Press the toggle button '+' to toggle the input text field. Enter your desired task in the input field and press enter to add. Hover over each list item to expose the delete button. Click on the delete button to delete items. Otherwise, click on the list item to indicate you have finished this task.
+Completely created with HTML, CSS and jQuery javascript. Press the toggle button '+' to toggle the input text field. Enter your desired task in the input field and press enter to add. Hover over each list item to expose the delete button. Click on the delete button to delete items. Otherwise, click on the list item to indicate you have finished this task.
 
 Built With
 ---
