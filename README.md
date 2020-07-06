@@ -14,4 +14,4 @@ Completely created with html, css and jQuery javascript. Press the toggle button
 
 Built With
 ---
-JavaScript (jQuery) HTML All Styling Done Through CSS with font-awesome icons. 
+JavaScript (jQuery), HTML, All Styling Done Through CSS with font-awesome icons. 
