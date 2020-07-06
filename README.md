@@ -6,7 +6,7 @@ The ToDoList is a simple list that allows the user to add, delete, and strikethr
 
 Demo
 ---
-![Alt Text](https://gfycat.com/raggedmisguidedbergerpicard)
+![Alt Text](https://media.giphy.com/media/YR2phStvbOg8EnCmyJ/giphy.gif)
 
 Main features
 ---
