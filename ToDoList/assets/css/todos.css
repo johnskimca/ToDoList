@@ -65,7 +65,7 @@ input:focus {
     opacity: 0.5;
 }
 
-span {
+li span {
     background-color: #ee7c3c;
     height: 40px;
     margin-right: 20px;
